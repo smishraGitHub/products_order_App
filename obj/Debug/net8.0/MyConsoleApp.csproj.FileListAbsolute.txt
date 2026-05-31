@@ -107,3 +107,4 @@
 /home/user/Desktop/DotnetProjects/Coding/Code26Jan/MyConsoleApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/user/Desktop/DotnetProjects/Coding/Code26Jan/MyConsoleApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/user/Desktop/DotnetProjects/Coding/Code26Jan/MyConsoleApp/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/user/Desktop/DotnetProjects/Coding/Code26Jan/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
